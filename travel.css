@@ -1,0 +1,122 @@
+.img1{
+    padding: 30px;
+    transform:rotate(20 deg);
+    padding-left: 30px;
+    height: 150px;
+    animation-name:floating-ball-model-3  ;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 15s;
+}
+.explore{
+    padding-left:20px;
+    padding-top: 190px;
+    margin: 10px;
+    font-family:Brush Script MT;
+    color: rgb(250, 217, 4);
+    font-size: 50px;
+}
+.trusted{
+    padding-left:20px;
+    padding-top: 20px;
+    margin: 10px;
+    font-family:roboto;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 55px;
+}
+.img2{
+    padding-top:155px ;
+    animation-name: floating ball model-3;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 15s;
+}
+@keyframes floating-ball-model-3 {
+    from {
+        transform: rotate(0deg);
+    }
+    to { 
+        transform: rotate(360deg);
+    }
+}
+.img-main{
+    height: 600px;
+}
+.img3{
+    padding: 30px;
+    margin-top: 350px;
+    transform:rotate(20 deg);
+    padding-left: 30px;
+    height: 150px;
+    animation-name:floating-ball-model-3  ;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-duration: 15s;
+}
+.travel{
+    padding-left:30px;
+    font-weight: bold;
+    color: rgb(2, 36, 36);
+}
+.about-us-bg1{
+    padding-left: 10px;
+    text-align: start;
+    padding-top: 480px;
+    height: 600px;
+    width: 1500px;
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dd3py8vac/image/upload/v1730611325/destination-1_suzlgn.jpg');
+}
+.about-p1{
+    font-family:Brush Script MT;
+    color: rgb(250, 217, 4);
+    font-size: 34px;
+    padding: 10px;
+}
+.about-h1{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: roboto;
+    font-weight: bold;
+}
+.about-us-bg2{
+    padding-left: 10px;
+    text-align: start;
+    padding-top: 480px;
+    height: 600px;
+    width: 1500px;
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dd3py8vac/image/upload/v1730611325/destination-2_kb0qcu.jpg');
+}
+.about-us-bg3{
+    padding-left: 10px;
+    text-align: start;
+    padding-top: 180px;
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dd3py8vac/image/upload/v1730611326/destination-3_yg7b8f.jpg');
+}
+.about-us-bg4{
+    padding-left: 10px;
+    text-align: start;
+    padding-top: 180px;
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dd3py8vac/image/upload/v1730611327/destination-4_oxfhiv.jpg');
+}
+.about-us-bg5{
+    padding-left: 10px;
+    text-align: start;
+    padding-top: 180px;
+    height: 300px;
+    width: 500px;
+    background-size: cover;
+    background-image: url('https://res.cloudinary.com/dd3py8vac/image/upload/v1730611327/destination-5_za4agb.jpg');
+}
+.popular-img{
+    height: 400px;
+    width: 350px;
+}
